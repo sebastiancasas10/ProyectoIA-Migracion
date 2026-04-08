@@ -2,7 +2,7 @@
 El presente repositorio contendra todo lo relacionado con nuestro proyecto 
 # Determinantes económicos, sociales y demográficos de la migración en Colombia:
 
-## Un enfoque probabilístico y machine learning (2023-2025)
+## Un enfoque probabilístico y machine learning (2022-2025)
 
 **Autores:**\
 Alan Steven Ríos Munar\
