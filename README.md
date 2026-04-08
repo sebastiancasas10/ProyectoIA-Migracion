@@ -52,7 +52,7 @@ personas y con mayor probabilidad de migración.
 ## Desafíos
 
 Unir en una sola base de datos la GEIH (Gran Encuesta Integrada de
-Hogares) realizada por el DANE de los años 2023, 2024 y 2025.
+Hogares) realizada por el DANE de los años 2022, 2023, 2024 y 2025.
 
 Considerando que:
 
@@ -72,7 +72,7 @@ la migración interna en Colombia al integrar:
 -   Modelos probabilísticos.
 -   Machine learning.
 -   Análisis espacial.
--   Unificación de la GEIH 2023-2025.
+-   Unificación de la GEIH 2022-2025.
 
 A diferencia de estudios de causalidad, la investigación:
 
